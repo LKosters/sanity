@@ -8,8 +8,8 @@ import { schemaTypes } from './schemas'
 export default defineConfig({
   name: 'default',
 
-  projectId: 'j1o4tmjp',
-  dataset: 'production',
+  projectId: 'r7e6h806',
+  dataset: 'playground',
 
   plugins: [
     structureTool(),
